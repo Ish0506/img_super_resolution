@@ -1,6 +1,6 @@
 **IMAGE SUPER RESOLUTION USING AUTOENCODERS IN KERAS:**
 
------------Image Super-Resolution is the task of generating a high-resolution output image from a low-resolution input by restoring the high-frequency details.
+Image Super-Resolution is the task of generating a high-resolution output image from a low-resolution input by restoring the high-frequency details.
 
 Common resizing methods like those from OpenCV and Scipy libraries use different interpolation approaches to estimate the value of the intermediate pixels based on the values of nearby pixels. The problem of such techniques is that as they smooth the spaces in between in the image, some visual details like sharp edges are often not preserved.
 
@@ -12,10 +12,10 @@ Below is a list of the different approaches that this repo covers. This list is 
 
 **THIS PROJECT IS DIVIDED INTO 7 TASKS-**
 
-Task 1: Project Overview and Import Libraries
-Task 2: What are Autoencoders?
-Task 3: Build the Encoder
-Task 4: Build the Decoder to Complete the Network
-Task 5: Create Dataset and Specify Training Routine
-Task 6: Load the Dataset and Pre-trained Model
-Task 7: Model Predictions and Visualizing the Results
+>Task 1: Project Overview and Import Libraries
+>Task 2: What are Autoencoders?
+>Task 3: Build the Encoder
+>Task 4: Build the Decoder to Complete the Network
+>Task 5: Create Dataset and Specify Training Routine
+>Task 6: Load the Dataset and Pre-trained Model
+>Task 7: Model Predictions and Visualizing the Results
