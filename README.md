@@ -1,4 +1,4 @@
-**IMAGE SUPER RESOLUTION USING AUTOENCODERS IN KERAS:**
+# **IMAGE SUPER RESOLUTION USING AUTOENCODERS IN KERAS:**
 
 Image Super-Resolution is the task of generating a high-resolution output image from a low-resolution input by restoring the high-frequency details.
 
