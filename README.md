@@ -12,10 +12,10 @@ Below is a list of the different approaches that this repo covers. This list is 
 
 **THIS PROJECT IS DIVIDED INTO 7 TASKS-**
 
->Task 1: Project Overview and Import Libraries
->Task 2: What are Autoencoders?
->Task 3: Build the Encoder
->Task 4: Build the Decoder to Complete the Network
->Task 5: Create Dataset and Specify Training Routine
->Task 6: Load the Dataset and Pre-trained Model
->Task 7: Model Predictions and Visualizing the Results
+1.Task 1: Project Overview and Import Libraries
+2.Task 2: What are Autoencoders?
+3.Task 3: Build the Encoder
+4.Task 4: Build the Decoder to Complete the Network
+5.Task 5: Create Dataset and Specify Training Routine
+6.Task 6: Load the Dataset and Pre-trained Model
+7.Task 7: Model Predictions and Visualizing the Results
